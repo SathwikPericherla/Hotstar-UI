@@ -14,7 +14,7 @@
 
 ## Introduction
 
-Welcome to the Hotstar UI Project! This project aims to recreate the user interface of Hotstar, providing an immersive streaming experience. The project utilizes [list of technologies/tools], and our goal is to [mention the overarching goal or purpose of the project].
+Welcome to the Hotstar UI Project! This project aims to recreate the user interface of Hotstar, providing an immersive streaming experience. The project utilizes modern web technologies to achieve a seamless and responsive design.
 
 ## Features
 

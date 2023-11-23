@@ -25,8 +25,6 @@ Welcome to the Hotstar UI Project! This project aims to recreate the user interf
 
 ## Demo
 
-Check out the live demo [here](link/to/demo) or view the screenshots below:
-
 
 Screenshot 1
 
@@ -47,13 +45,13 @@ Follow these steps to set up the Hotstar UI project locally:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/hotstar-ui-project.git
+    git clone https://github.com/SathwikPericherla/Hotstar-UI.git
     ```
 
 2. Navigate to the project folder:
 
     ```bash
-    cd hotstar-ui-project
+    cd Hotstar-UI
     ```
 
 3. Install dependencies:

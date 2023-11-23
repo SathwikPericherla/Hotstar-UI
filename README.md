@@ -1,6 +1,6 @@
 # Hotstar UI Project
 
-![Hotstar Logo](public\images\logormd.png)
+![Hotstar Logo](public/images/logormd.png)
 
 ## Table of Contents
 
@@ -28,8 +28,8 @@ Welcome to the Hotstar UI Project! This project aims to recreate the user interf
 Check out the live demo [here](link/to/demo) or view the screenshots below:
 
 ![Screenshot 1](public/images/screenshot1.png)
-![Screenshot 2](public\images\screenshot2.png)
-![Screenshot 3](public\images\screenshot3.png)
+![Screenshot 2](public/images/screenshot2.png)
+![Screenshot 3](public/images/screenshot3.png)
 
 ## Installation
 

@@ -1,6 +1,6 @@
 # Hotstar UI Project
 
-![Hotstar Logo](public/images/logormd.png)
+![logo](https://github.com/SathwikPericherla/Hotstar-UI/assets/131369920/1fc23bd7-1474-4401-9ce3-b7d0ffa566bc)
 
 ## Table of Contents
 
@@ -27,9 +27,18 @@ Welcome to the Hotstar UI Project! This project aims to recreate the user interf
 
 Check out the live demo [here](link/to/demo) or view the screenshots below:
 
-![Screenshot 1](public/images/screenshot1.png)
-![Screenshot 2](public/images/screenshot2.png)
-![Screenshot 3](public/images/screenshot3.png)
+
+Screenshot 1
+
+![screenshot1](https://github.com/SathwikPericherla/Hotstar-UI/assets/131369920/75781ff7-a14f-4693-a90b-1767346678c7)
+
+Screenshot 2
+
+![screenshot2](https://github.com/SathwikPericherla/Hotstar-UI/assets/131369920/79fc71dd-f5c8-4280-bd29-7befd11e7435)
+
+Screenshot 3
+
+![screenshot3](https://github.com/SathwikPericherla/Hotstar-UI/assets/131369920/f704f1fa-38cd-4e95-987d-830d525c96a8)
 
 ## Installation
 
